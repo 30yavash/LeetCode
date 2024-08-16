@@ -1,5 +1,5 @@
 # LeetCode
-## Arrays & Hashing:
+## Arrays & Hashing
 1. Contains Duplicate (217)
 2. Valid Anagram (242)
 3. Two Sum (1)
